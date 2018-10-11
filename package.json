@@ -1,0 +1,29 @@
+{
+  "name": "gulp_fish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:k0xxx/gulp_fish.git"
+  },
+  "author": "Aleksandr Klimenko",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.24.4",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-html-extend": "^1.1.6",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.0.1",
+    "imagemin-pngquant": "^5.1.0"
+  }
+}
